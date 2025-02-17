@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DaiGluod
-- 👀 I’m interested in progrraming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA
